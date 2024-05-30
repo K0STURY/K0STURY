@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Godot**
 
-- 👨‍💻 All of my projects are available at [https://k0stur.art/](https://k0stur.art/)
+- 👨‍💻 All of my projects are available at [Itch.io](https://k0stur.itch.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
